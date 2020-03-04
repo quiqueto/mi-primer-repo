@@ -10,6 +10,4 @@ public class Encapsulacion3 {
 }
 //Los métodos o miembros de datos declarados como protected son 
 //accesibles dentro del mismo paquete o sub-clases en paquetes diferentes.
-
-// ahora vamos
-// con otra prueba
+/* hola */
